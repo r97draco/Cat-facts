@@ -1,0 +1,70 @@
+.title{
+    font-family: 'Oswald', sans-serif;
+    font-size: 48px;
+    background-color: rgba(255, 255, 255, 0.89) ;
+}
+
+.heading{
+    color:black;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    margin: -58px auto;
+    display: block;
+ } 
+
+html{
+    background: url('cat6.jpg');
+    background-size: cover;
+    height: 100%;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    
+        background-size: cover;
+        height: 100%;
+        background-repeat: no-repeat;
+        margin: 0px;
+        padding: 0px;
+}
+
+h2{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.heading2{
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.945);
+  }
+
+input[type=submit]{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.89) ;
+    background-color: rgba(255, 255, 255, 0.89);
+    color: black;
+    border-radius: 3px;
+}
+
+input[type=submit]:hover{
+    background-color: aquamarine;
+}
+
+.button{
+    text-align: center;
+    height: 43px;
+}
+
